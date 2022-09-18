@@ -1,0 +1,3 @@
+[submodule "react-objectives"]
+	path = react-objectives
+	url = https://github.com/CristinaV/react-objectives.git
